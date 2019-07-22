@@ -1,0 +1,29 @@
+commit f0a2f9644cda4a8f17e18f30fb4f2bd5cce674a9
+Author: adrianprofir <adrian.profir95@gmail.com>
+Date:   Mon Jul 22 13:10:06 2019 +0300
+
+    changed the gitignore
+
+commit a46e03787b8115b42f5847c18c70694c1095332b
+Author: adrianprofir <adrian.profir95@gmail.com>
+Date:   Mon Jul 22 13:04:38 2019 +0300
+
+    addt gitingnore
+
+commit 0103c87d7ea6d3e3e9d2d071ab28e91d8da6e177
+Author: adrianprofir <adrian.profir95@gmail.com>
+Date:   Mon Jul 22 13:01:44 2019 +0300
+
+    Added one file only
+
+commit c155b038994f37c66bf60df0138a9d5c4a951e7c
+Author: adrianprofir <adrian.profir95@gmail.com>
+Date:   Mon Jul 22 13:00:18 2019 +0300
+
+    added two files
+
+commit 894a1f2651c9f755e40a4efacb30dbf4e7fde987
+Author: adrianprofir <adrian.profir95@gmail.com>
+Date:   Mon Jul 22 12:57:24 2019 +0300
+
+    added readme.txt
